@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.box1{
+  background-color: #3ed6ee;
+  height: 300px;
+  width: 300px;
+  padding:30px;
+}
+
+.box2{
+  background-color:blue;
+  height:100px;
+  width: 100px;
+  border: 5px solid yellow;
+}
